@@ -1,0 +1,1112 @@
+[
+  {
+    "country": "Latvia",
+    "both": "13.1900",
+    "male": "21.6100",
+    "female": "6.3100"
+  },
+  {
+    "country": "Moldova",
+    "both": "12.8500",
+    "male": "20.6100",
+    "female": "5.8900"
+  },
+  {
+    "country": "Germany",
+    "both": "12.7900",
+    "male": "19.7100",
+    "female": "6.1500"
+  },
+  {
+    "country": "Lithuania",
+    "both": "12.7800",
+    "male": "20.6000",
+    "female": "6.3000"
+  },
+  {
+    "country": "Ireland",
+    "both": "12.7500",
+    "male": "19.3800",
+    "female": "6.3400"
+  },
+  {
+    "country": "Spain",
+    "both": "12.6700",
+    "male": "19.9400",
+    "female": "5.7600"
+  },
+  {
+    "country": "Uganda",
+    "both": "12.4800",
+    "male": "20.6100",
+    "female": "4.9400"
+  },
+  {
+    "country": "Bulgaria",
+    "both": "12.4600",
+    "male": "19.8600",
+    "female": "5.5900"
+  },
+  {
+    "country": "Luxembourg",
+    "both": "12.4500",
+    "male": "18.7400",
+    "female": "6.0800"
+  },
+  {
+    "country": "Romania",
+    "both": "12.3400",
+    "male": "19.5000",
+    "female": "5.6800"
+  },
+  {
+    "country": "Andorra",
+    "both": "12.2600",
+    "male": "18.5800",
+    "female": "5.7400"
+  },
+  {
+    "country": "Montenegro",
+    "both": "12.2400",
+    "male": "19.5100",
+    "female": "5.3000"
+  },
+  {
+    "country": "France",
+    "both": "12.2300",
+    "male": "19.2100",
+    "female": "5.8300"
+  },
+  {
+    "country": "Slovenia",
+    "both": "12.1100",
+    "male": "18.6800",
+    "female": "5.6700"
+  },
+  {
+    "country": "Portugal",
+    "both": "12.0900",
+    "male": "19.5100",
+    "female": "5.5900"
+  },
+  {
+    "country": "Laos",
+    "both": "12.0800",
+    "male": "19.1100",
+    "female": "5.0900"
+  },
+  {
+    "country": "Tanzania",
+    "both": "12.0400",
+    "male": "19.8900",
+    "female": "4.3600"
+  },
+  {
+    "country": "Austria",
+    "both": "11.9300",
+    "male": "18.4200",
+    "female": "5.7600"
+  },
+  {
+    "country": "Poland",
+    "both": "11.8900",
+    "male": "18.6500",
+    "female": "5.6500"
+  },
+  {
+    "country": "United Kingdom",
+    "both": "11.4500",
+    "male": "17.7400",
+    "female": "5.4000"
+  },
+  {
+    "country": "Switzerland",
+    "both": "11.2300",
+    "male": "17.1800",
+    "female": "5.4500"
+  },
+  {
+    "country": "Hungary",
+    "both": "11.0700",
+    "male": "17.6600",
+    "female": "5.2400"
+  },
+  {
+    "country": "Slovakia",
+    "both": "11.0600",
+    "male": "17.2600",
+    "female": "5.3000"
+  },
+  {
+    "country": "Burkina Faso",
+    "both": "11.0500",
+    "male": "18.5000",
+    "female": "3.8500"
+  },
+  {
+    "country": "Belarus",
+    "both": "10.9600",
+    "male": "17.9300",
+    "female": "5.1300"
+  },
+  {
+    "country": "Cook Islands",
+    "both": "10.9400",
+    "male": "17.9500",
+    "female": "4.3600"
+  },
+  {
+    "country": "Cyprus",
+    "both": "10.8000",
+    "male": "16.9200",
+    "female": "4.7600"
+  },
+  {
+    "country": "Belgium",
+    "both": "10.8000",
+    "male": "16.7000",
+    "female": "5.1300"
+  },
+  {
+    "country": "Estonia",
+    "both": "10.7500",
+    "male": "17.3500",
+    "female": "5.0600"
+  },
+  {
+    "country": "New Zealand",
+    "both": "10.6900",
+    "male": "16.4600",
+    "female": "5.2300"
+  },
+  {
+    "country": "Finland",
+    "both": "10.6500",
+    "male": "16.5600",
+    "female": "4.9900"
+  },
+  {
+    "country": "Greece",
+    "both": "10.5000",
+    "male": "16.7200",
+    "female": "4.6000"
+  },
+  {
+    "country": "Russia",
+    "both": "10.5000",
+    "male": "17.9900",
+    "female": "4.3100"
+  },
+  {
+    "country": "Barbados",
+    "both": "10.3700",
+    "male": "16.9500",
+    "female": "4.3500"
+  },
+  {
+    "country": "Australia",
+    "both": "10.3600",
+    "male": "15.7200",
+    "female": "5.1100"
+  },
+  {
+    "country": "Denmark",
+    "both": "10.1300",
+    "male": "15.5800",
+    "female": "4.8000"
+  },
+  {
+    "country": "Japan",
+    "both": "10.0900",
+    "male": "15.5800",
+    "female": "4.9300"
+  },
+  {
+    "country": "United States",
+    "both": "9.9700",
+    "male": "15.4400",
+    "female": "4.6900"
+  },
+  {
+    "country": "Niue",
+    "both": "9.9300",
+    "male": "16.0400",
+    "female": "3.7700"
+  },
+  {
+    "country": "Netherlands",
+    "both": "9.6700",
+    "male": "14.9000",
+    "female": "4.5400"
+  },
+  {
+    "country": "Saint Lucia",
+    "both": "9.5900",
+    "male": "15.4500",
+    "female": "3.9700"
+  },
+  {
+    "country": "Georgia",
+    "both": "9.4700",
+    "male": "15.6100",
+    "female": "4.1100"
+  },
+  {
+    "country": "Argentina",
+    "both": "9.4500",
+    "male": "14.6600",
+    "female": "4.6400"
+  },
+  {
+    "country": "South Africa",
+    "both": "9.4500",
+    "male": "15.7400",
+    "female": "3.4600"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "both": "9.4000",
+    "male": "15.0900",
+    "female": "4.2500"
+  },
+  {
+    "country": "Iceland",
+    "both": "9.2100",
+    "male": "14.0300",
+    "female": "4.3900"
+  },
+  {
+    "country": "Sweden",
+    "both": "9.0400",
+    "male": "13.8500",
+    "female": "4.2700"
+  },
+  {
+    "country": "Grenada",
+    "both": "8.9600",
+    "male": "14.2500",
+    "female": "3.6400"
+  },
+  {
+    "country": "Chile",
+    "both": "8.9500",
+    "male": "13.7400",
+    "female": "4.3600"
+  },
+  {
+    "country": "Serbia",
+    "both": "8.8500",
+    "male": "14.0900",
+    "female": "3.9300"
+  },
+  {
+    "country": "Seychelles",
+    "both": "8.8400",
+    "male": "13.4100",
+    "female": "4.0200"
+  },
+  {
+    "country": "Canada",
+    "both": "8.8100",
+    "male": "13.7300",
+    "female": "4.0100"
+  },
+  {
+    "country": "Eswatini",
+    "both": "8.7800",
+    "male": "14.7800",
+    "female": "3.2600"
+  },
+  {
+    "country": "Croatia",
+    "both": "8.7300",
+    "male": "13.9600",
+    "female": "3.9900"
+  },
+  {
+    "country": "Thailand",
+    "both": "8.5000",
+    "male": "13.7500",
+    "female": "3.6100"
+  },
+  {
+    "country": "South Korea",
+    "both": "8.4500",
+    "male": "12.7600",
+    "female": "4.1700"
+  },
+  {
+    "country": "Ukraine",
+    "both": "8.3400",
+    "male": 14,
+    "female": "3.6500"
+  },
+  {
+    "country": "Malta",
+    "both": "8.2700",
+    "male": "12.8800",
+    "female": "3.6900"
+  },
+  {
+    "country": "Gabon",
+    "both": "8.0800",
+    "male": "12.2400",
+    "female": "3.7000"
+  },
+  {
+    "country": "Italy",
+    "both": "8.0100",
+    "male": "12.7400",
+    "female": "3.6100"
+  },
+  {
+    "country": "Rwanda",
+    "both": "7.9600",
+    "male": "13.1100",
+    "female": "3.1100"
+  },
+  {
+    "country": "Vietnam",
+    "both": "7.9300",
+    "male": "12.8400",
+    "female": "3.1900"
+  },
+  {
+    "country": "Cambodia",
+    "both": "7.8400",
+    "male": "12.9000",
+    "female": "3.2100"
+  },
+  {
+    "country": "Angola",
+    "both": "7.8300",
+    "male": "12.3900",
+    "female": "3.4800"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "both": "7.8100",
+    "male": "12.9500",
+    "female": "2.9600"
+  },
+  {
+    "country": "Panama",
+    "both": "7.7700",
+    "male": "12.2300",
+    "female": "3.3600"
+  },
+  {
+    "country": "Burundi",
+    "both": "7.4500",
+    "male": "12.2200",
+    "female": "2.8900"
+  },
+  {
+    "country": "Suriname",
+    "both": "7.4000",
+    "male": "11.7400",
+    "female": "3.1000"
+  },
+  {
+    "country": "Brazil",
+    "both": "7.3200",
+    "male": "11.6500",
+    "female": "3.2200"
+  },
+  {
+    "country": "Dominica",
+    "both": "7.2300",
+    "male": "11.5300",
+    "female": "2.9000"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "both": "7.1500",
+    "male": "11.2900",
+    "female": "2.8700"
+  },
+  {
+    "country": "Norway",
+    "both": "7.1400",
+    "male": "10.8000",
+    "female": "3.4500"
+  },
+  {
+    "country": "Philippines",
+    "both": "7.0200",
+    "male": "11.2200",
+    "female": "2.8700"
+  },
+  {
+    "country": "Paraguay",
+    "both": "7.0100",
+    "male": "10.9600",
+    "female": "2.9400"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "both": "6.9200",
+    "male": "9.6300",
+    "female": "3.1200"
+  },
+  {
+    "country": "Uruguay",
+    "both": "6.9200",
+    "male": "10.8200",
+    "female": "3.3800"
+  },
+  {
+    "country": "Albania",
+    "both": "6.8200",
+    "male": "11.0200",
+    "female": "2.5300"
+  },
+  {
+    "country": "Peru",
+    "both": "6.7800",
+    "male": "10.4100",
+    "female": "3.2400"
+  },
+  {
+    "country": "Dominican Republic",
+    "both": "6.6800",
+    "male": "10.6200",
+    "female": "2.8000"
+  },
+  {
+    "country": "Botswana",
+    "both": "6.6100",
+    "male": "11.1000",
+    "female": "2.6100"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "both": "6.5200",
+    "male": "10.2400",
+    "female": "2.9400"
+  },
+  {
+    "country": "North Macedonia",
+    "both": "6.4300",
+    "male": "10.3600",
+    "female": "2.5400"
+  },
+  {
+    "country": "Belize",
+    "both": "6.3700",
+    "male": "10.1800",
+    "female": "2.6500"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "both": "6.3400",
+    "male": "10.0100",
+    "female": "2.7800"
+  },
+  {
+    "country": "Cuba",
+    "both": "6.2600",
+    "male": "9.9700",
+    "female": "2.6400"
+  },
+  {
+    "country": "Nigeria",
+    "both": "6.1900",
+    "male": "9.8400",
+    "female": "2.4900"
+  },
+  {
+    "country": "China",
+    "both": "6.0400",
+    "male": "9.3700",
+    "female": "2.6000"
+  },
+  {
+    "country": "Mongolia",
+    "both": "5.9000",
+    "male": "9.2300",
+    "female": "2.7200"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "both": "5.8000",
+    "male": "9.1500",
+    "female": "2.4900"
+  },
+  {
+    "country": "India",
+    "both": "5.6100",
+    "male": "9.0600",
+    "female": "1.8900"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "both": "5.5400",
+    "male": "9.3200",
+    "female": "2.0900"
+  },
+  {
+    "country": "Cameroon",
+    "both": "5.5200",
+    "male": "8.7600",
+    "female": "2.3200"
+  },
+  {
+    "country": "Colombia",
+    "both": "5.4500",
+    "male": "8.8400",
+    "female": "2.2700"
+  },
+  {
+    "country": "Liberia",
+    "both": "5.3700",
+    "male": "8.5800",
+    "female": "2.2000"
+  },
+  {
+    "country": "Guyana",
+    "both": "5.3300",
+    "male": "8.5700",
+    "female": "2.1000"
+  },
+  {
+    "country": "Sierra Leone",
+    "both": "5.3100",
+    "male": "9.1900",
+    "female": "1.4700"
+  },
+  {
+    "country": "Lesotho",
+    "both": "5.0800",
+    "male": "8.6500",
+    "female": "1.6700"
+  },
+  {
+    "country": "Nicaragua",
+    "both": "5.0700",
+    "male": "8.3100",
+    "female": "2.0200"
+  },
+  {
+    "country": "Mexico",
+    "both": "5.0500",
+    "male": "8.1300",
+    "female": "2.1800"
+  },
+  {
+    "country": "Kazakhstan",
+    "both": 5,
+    "male": "8.3300",
+    "female": "2.0200"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "both": "4.8500",
+    "male": "8.3800",
+    "female": "1.5100"
+  },
+  {
+    "country": "Bahamas",
+    "both": "4.8000",
+    "male": "7.6600",
+    "female": "2.1600"
+  },
+  {
+    "country": "Mauritius",
+    "both": "4.7800",
+    "male": "7.6700",
+    "female": 2
+  },
+  {
+    "country": "Armenia",
+    "both": "4.6700",
+    "male": "7.7000",
+    "female": "2.1400"
+  },
+  {
+    "country": "Zimbabwe",
+    "both": "4.5200",
+    "male": "7.9400",
+    "female": "1.6200"
+  },
+  {
+    "country": "Zambia",
+    "both": "4.4600",
+    "male": "7.2600",
+    "female": "1.7900"
+  },
+  {
+    "country": "Israel",
+    "both": "4.3800",
+    "male": "6.8400",
+    "female": "2.0200"
+  },
+  {
+    "country": "Nauru",
+    "both": "4.1800",
+    "male": "7.0700",
+    "female": "1.4600"
+  },
+  {
+    "country": "Jamaica",
+    "both": "4.1600",
+    "male": "6.7100",
+    "female": "1.6900"
+  },
+  {
+    "country": "North Korea",
+    "both": "4.1600",
+    "male": "6.8900",
+    "female": "1.6100"
+  },
+  {
+    "country": "El Salvador",
+    "both": "4.0900",
+    "male": "6.9100",
+    "female": "1.7500"
+  },
+  {
+    "country": "Malawi",
+    "both": "4.0800",
+    "male": "6.7600",
+    "female": "1.5600"
+  },
+  {
+    "country": "Costa Rica",
+    "both": "4.0700",
+    "male": "6.4900",
+    "female": "1.6800"
+  },
+  {
+    "country": "Honduras",
+    "both": "3.9300",
+    "male": "6.3400",
+    "female": "1.5700"
+  },
+  {
+    "country": "Bolivia",
+    "both": "3.9100",
+    "male": 6,
+    "female": "1.8400"
+  },
+  {
+    "country": "United Arab Emirates",
+    "both": "3.8500",
+    "male": "4.9700",
+    "female": "0.8700"
+  },
+  {
+    "country": "Fiji",
+    "both": "3.6800",
+    "male": "6.0800",
+    "female": "1.2300"
+  },
+  {
+    "country": "Venezuela",
+    "both": "3.5600",
+    "male": "5.7200",
+    "female": "1.5100"
+  },
+  {
+    "country": "Gambia",
+    "both": "3.3600",
+    "male": "5.7300",
+    "female": "1.0900"
+  },
+  {
+    "country": "Ecuador",
+    "both": "3.2700",
+    "male": "5.0100",
+    "female": "1.5600"
+  },
+  {
+    "country": "Namibia",
+    "both": "3.1500",
+    "male": "5.3000",
+    "female": "1.2000"
+  },
+  {
+    "country": "Turkmenistan",
+    "both": "3.0900",
+    "male": "5.2600",
+    "female": "1.0300"
+  },
+  {
+    "country": "Ivory Coast",
+    "both": "3.0400",
+    "male": "4.8300",
+    "female": "1.1900"
+  },
+  {
+    "country": "Haiti",
+    "both": "3.0200",
+    "male": "4.9600",
+    "female": "1.1900"
+  },
+  {
+    "country": "Sri Lanka",
+    "both": "2.8700",
+    "male": "4.7500",
+    "female": "1.1900"
+  },
+  {
+    "country": "Samoa",
+    "both": "2.8200",
+    "male": "4.5800",
+    "female": "0.9300"
+  },
+  {
+    "country": "Maldives",
+    "both": "2.7800",
+    "male": "3.9500",
+    "female": "0.5700"
+  },
+  {
+    "country": "Ghana",
+    "both": "2.7800",
+    "male": "4.3700",
+    "female": "1.1600"
+  },
+  {
+    "country": "Mozambique",
+    "both": "2.6900",
+    "male": "4.5300",
+    "female": "1.0400"
+  },
+  {
+    "country": "Togo",
+    "both": "2.6600",
+    "male": "4.2500",
+    "female": "1.1000"
+  },
+  {
+    "country": "Uzbekistan",
+    "both": "2.6100",
+    "male": "4.4800",
+    "female": "0.7900"
+  },
+  {
+    "country": "Micronesia",
+    "both": "2.5100",
+    "male": "4.1400",
+    "female": "0.8500"
+  },
+  {
+    "country": "Kiribati",
+    "both": "2.3200",
+    "male": "3.9700",
+    "female": "0.8000"
+  },
+  {
+    "country": "Benin",
+    "both": "2.2300",
+    "male": "3.5900",
+    "female": "0.9000"
+  },
+  {
+    "country": "Ethiopia",
+    "both": "2.2000",
+    "male": "3.6600",
+    "female": "0.7800"
+  },
+  {
+    "country": "Kenya",
+    "both": "2.1500",
+    "male": "3.5100",
+    "female": "0.8300"
+  },
+  {
+    "country": "Myanmar",
+    "both": "2.1400",
+    "male": "3.5700",
+    "female": "0.8500"
+  },
+  {
+    "country": "Papua New Guinea",
+    "both": "2.1200",
+    "male": "3.4900",
+    "female": "0.7200"
+  },
+  {
+    "country": "Eritrea",
+    "both": "2.1100",
+    "male": "3.5200",
+    "female": "0.7300"
+  },
+  {
+    "country": "Vanuatu",
+    "both": "2.1000",
+    "male": "3.4800",
+    "female": "0.7300"
+  },
+  {
+    "country": "Tunisia",
+    "both": "2.0400",
+    "male": "3.6100",
+    "female": "0.5300"
+  },
+  {
+    "country": "Singapore",
+    "both": 2,
+    "male": "2.9200",
+    "female": "0.9900"
+  },
+  {
+    "country": "Madagascar",
+    "both": "1.9800",
+    "male": "3.2200",
+    "female": "0.7700"
+  },
+  {
+    "country": "Turkey",
+    "both": "1.7700",
+    "male": "3.1200",
+    "female": "0.4800"
+  },
+  {
+    "country": "Solomon Islands",
+    "both": "1.7400",
+    "male": "2.8700",
+    "female": "0.5900"
+  },
+  {
+    "country": "Central African Republic",
+    "both": "1.7100",
+    "male": "2.7600",
+    "female": "0.7100"
+  },
+  {
+    "country": "Guatemala",
+    "both": "1.6300",
+    "male": "2.6300",
+    "female": "0.6900"
+  },
+  {
+    "country": "Lebanon",
+    "both": "1.5300",
+    "male": "2.5800",
+    "female": "0.4900"
+  },
+  {
+    "country": "Qatar",
+    "both": "1.5100",
+    "male": "1.8100",
+    "female": "0.3800"
+  },
+  {
+    "country": "Tuvalu",
+    "both": "1.3100",
+    "male": "2.2600",
+    "female": "0.4500"
+  },
+  {
+    "country": "Mali",
+    "both": "1.3100",
+    "male": "2.2600",
+    "female": "0.3900"
+  },
+  {
+    "country": "Chad",
+    "both": "1.2600",
+    "male": "2.0700",
+    "female": "0.4600"
+  },
+  {
+    "country": "Comoros",
+    "both": "1.1500",
+    "male": 2,
+    "female": "0.3000"
+  },
+  {
+    "country": "Bahrain",
+    "both": "1.1300",
+    "male": "1.5400",
+    "female": "0.3200"
+  },
+  {
+    "country": "DR Congo",
+    "both": "1.1000",
+    "male": "1.7600",
+    "female": "0.4600"
+  },
+  {
+    "country": "Guinea",
+    "both": "1.0900",
+    "male": "1.9400",
+    "female": "0.3600"
+  },
+  {
+    "country": "Iran",
+    "both": "1.0100",
+    "male": "1.7600",
+    "female": "0.2500"
+  },
+  {
+    "country": "Azerbaijan",
+    "both": "0.9800",
+    "male": "1.6700",
+    "female": "0.3200"
+  },
+  {
+    "country": "Malaysia",
+    "both": "0.9300",
+    "male": "1.4800",
+    "female": "0.3500"
+  },
+  {
+    "country": "Oman",
+    "both": "0.9200",
+    "male": "1.2200",
+    "female": "0.2300"
+  },
+  {
+    "country": "Tajikistan",
+    "both": "0.8800",
+    "male": "1.4900",
+    "female": "0.2600"
+  },
+  {
+    "country": "Senegal",
+    "both": "0.7300",
+    "male": "1.3000",
+    "female": "0.2200"
+  },
+  {
+    "country": "Algeria",
+    "both": "0.6300",
+    "male": "1.0900",
+    "female": "0.1700"
+  },
+  {
+    "country": "Nepal",
+    "both": "0.6200",
+    "male": "1.1000",
+    "female": "0.2500"
+  },
+  {
+    "country": "Timor-Leste",
+    "both": "0.5300",
+    "male": "0.8400",
+    "female": "0.2100"
+  },
+  {
+    "country": "Jordan",
+    "both": "0.5200",
+    "male": "0.8900",
+    "female": "0.1400"
+  },
+  {
+    "country": "Niger",
+    "both": "0.5200",
+    "male": "0.8900",
+    "female": "0.1500"
+  },
+  {
+    "country": "Morocco",
+    "both": "0.4900",
+    "male": "0.8700",
+    "female": "0.1300"
+  },
+  {
+    "country": "Brunei",
+    "both": "0.4600",
+    "male": "0.6800",
+    "female": "0.2100"
+  },
+  {
+    "country": "Tonga",
+    "both": "0.4300",
+    "male": "0.7300",
+    "female": "0.1500"
+  },
+  {
+    "country": "Iraq",
+    "both": "0.3700",
+    "male": "0.6400",
+    "female": "0.1000"
+  },
+  {
+    "country": "Djibouti",
+    "both": "0.3600",
+    "male": "0.6000",
+    "female": "0.0930"
+  },
+  {
+    "country": "Pakistan",
+    "both": "0.3100",
+    "male": "0.5200",
+    "female": "0.0950"
+  },
+  {
+    "country": "Indonesia",
+    "both": "0.2200",
+    "male": "0.3700",
+    "female": "0.0630"
+  },
+  {
+    "country": "Bhutan",
+    "both": "0.2100",
+    "male": "0.3300",
+    "female": "0.0770"
+  },
+  {
+    "country": "Syria",
+    "both": "0.1900",
+    "male": "0.3200",
+    "female": "0.0470"
+  },
+  {
+    "country": "Egypt",
+    "both": "0.1400",
+    "male": "0.2400",
+    "female": "0.0370"
+  },
+  {
+    "country": "Yemen",
+    "both": "0.0340",
+    "male": "0.0590",
+    "female": "0.0090"
+  },
+  {
+    "country": "Libya",
+    "both": "0.0270",
+    "male": "0.0470",
+    "female": "0.0070"
+  },
+  {
+    "country": "Afghanistan",
+    "both": "0.0130",
+    "male": "0.0220",
+    "female": "0.0030"
+  },
+  {
+    "country": "Kuwait",
+    "both": 0,
+    "male": 0,
+    "female": 0
+  },
+  {
+    "country": "Mauritania",
+    "both": 0,
+    "male": 0,
+    "female": 0
+  },
+  {
+    "country": "Somalia",
+    "both": 0,
+    "male": 0,
+    "female": 0
+  },
+  {
+    "country": "Saudi Arabia",
+    "both": 0,
+    "male": 0,
+    "female": 0
+  },
+  {
+    "country": "Bangladesh",
+    "both": 0,
+    "male": 0,
+    "female": 0
+  }
+]
