@@ -1,14 +1,30 @@
-# Team-5-GT-Bootcamp-Project-1
-Project 1 in the Georgia Tech Bootcamp for Team 5
+# Exploring World Happiness
+
+## Hannah Allen, Chris Partee, Grace Olson
+## GT Bootcamp: Project #1
+## May 2, 2022
+
+#### In reviewing the world happiness data we observed the total data set for 2022 by comparing the top 5 counties with the highest happiness ratings and compared them to the bottom 5 counties with the lowest ratings. The rankings for the countries in the top 5 were: 1) Finland, 2) Denmark, 3) Iceland, 4) Switzerland, and 5) The Netherlands. The bottom 5 ranked countries according to the data set were: 142) Botswana, 143) Rwanda, 144) Zimbabwe, 145) Lebanon and 146) Afghanistan.  In reviewing the compound bar chart that compares the 6 variables utilized to determine the ranking for happiness (GDP, Social Support, Life Expectancy, Freedom of Choice, Generosity, and Perception of Corruption), there is a clear difference between the top 5 and bottom 5 countries.  The 6 variables were ranked on a score between 0.00 to 2.00.  Reviewing GDP showed a trend of decline between the top 5 countries and the bottom 5 countries. Switzerland had the highest score of 2.00. The other top 5 countries had scores between 1.80-1.95. Afghanistan had the lowest GDP score of 0.75. The other bottom 5 ranking countries had GDP scores between 0.75-1.50. Social Support followed a similar trend of declining with rank. However, the top 5 ranked countries all had scores of 1.25. The bottom 5 ranked countries all had Social Scores under 0.75, with only Rwanda and Afghanistan having scores below 0.25. Life Expectancy for the top 5 countries had approximately a 0.75 in scoring. However, the bottom countries varied in scores. Lebanon had a score over 0.60, Rwanda scored around 0.40, while Botswana, Zimbabwe, and Afghanistan all had scores around 0.25. Scoring for Freedom of choice for top 5 countries were generally all between 0.60-0.70. The bottom 5 countries varied in score for Freedom of choice. Rwanda and Botswana had a score between 0.50-0.60. Whereas, Zimbabwe, Lebanon and Afghanistan all had scores between 0.00- 0.30. Generosity scored below 0.25 for all countries. Iceland and The Netherlands both had scores closest to 0.25. However, Finland had a score of 0.11. Botswana had a score of 0.01 compared to Rwanda which scored approximately 0.19. Lastly, the Perception of Corruption varied between the top 5 countries and the bottom 5 countries. Finland, Denmark, and Rwanda all had scores close to 0.50. The Netherlands had a score close to 0.40. However, Iceland, Botswana, Zimbabwe, Lebanon, and Afghanistan all scored below 0.20. 
+
+#### We utilized gmaps in order to observe Happiness over time. We were able to visibly able to observe the change in Happiness Score over time. Generally, all countries on the map have declined in happiness scores between 2015-2022. A marked difference in color was observed in 2020, which is when the COVID-19 pandemic hit.  A notable country to observe is Canada whose rank dropped from the top 5 to be below 10 between 2015-2022. Additionally, when reviewing a line graph of average happiness over time, the average happiness score rose from 5.525 in 2015 overtime 5.675 in 2020 and continued to rise to 5.700 in 2021. However, has since declined to 5.675 for the year 2022. 
 
 
+#### We developed 4 specific variables we wanted to run a correlation coefficient for:
+#### 1.) Are counties with higher median incomes happier?
+#### 2.)Does the weather of a country (av sunshine) influence happiness? 
+#### 3.)Are countries with longer life expectancies happier?
+#### 4.)Does Alcohol Influence happiness?
 
+### **Question 1: Are counties with higher average incomes happier?**
+#### There is a clear visible positive correlation between average income and happiness score. The line clearly shows that as income rises from 0 to 25,000 happiness scores increased from close to 3 points to between 7 and 8 points. This also is visible in the bar graph. The top 5 highest average income countries Switzerland, The USA, Norway, Canada, and Australia all had happiness scores close to or above 7 points. The countries with the lowest average income Togo, Mozambique, Mali, Uzbekistan, and Malawi generally all had scores between 4 and 5 points, with the exception of Uzbekistan whose happiness score was closer to 6 points. 
 
+### **2.) Does the weather of a country (av sunshine) influence happiness?**
+#### There is a weak negative correlation between average Sunshine hours and happiness score. As the number of sunshine hours per year decreased from 3500, happiness scores increased to be closer to 8 points. There are, however, a few visible outliers. This becomes apparent in reviewing the bar chart. We compared the top 5 sunniest countries Namibia, Egypt, Cyprus, Israel, and Algeria to the least sunny countries Belgium, United Kingdom, Ireland, Norway, and Iceland. Israel had a happiness score of over 7 points but was once of the sunniest countries. Cyprus was close with a happiness score of over 6 points. The rest of the sunniest countries fell below the average happiness score between 4 and 5 points. The least sunny countries all had happiness scores between 7 and 8 points. 
 
+### **3.)Are countries with longer life expectancies happier?**
+####  There is a positive correlation between happiness score and average life expectancy. As Life Expectancy increased from 0.3 points to 0.9 points happiness scores increased. This is also visible in the bar chart. We reviewed the top 5 countries with the highest life expectancy Japan, Korea, Switzerland, Cyprus, and Israel to the countries with the lowest life expectancy in Zambia, Nigeria, Guinea, Zimbabwe, and Mozambique. The countries with the highest life expectancy all were above the average happiness score ranging from 6 points to 7.5. The countries with the lowest life expectancy scores were all below the average happiness score, ranging from 3 to 5 points. 
 
+### **4.)Does Alcohol Influence happiness?**
+#### There is a weak correlation between alcohol consumption per year and happiness score. There is a general upward trend in happiness scores for countries that reported higher alcohol consumption per year, however, there are several outliers. We compared the scores with the highest alcohol consumption per liter a year Latvia, Moldova, Germany, Lithuania, and Ireland to the countries with the lowest alcohol consumption per year in Morocco, Iraq, Pakistan, Egypt, and Bangladesh. All of the countries that had the highest alcohol consumption fell above the average happiness score, ranging from 6 points to above 7 points. The countries with the lowest alcohol consumption all fell below the average happiness score, ranging from 4 to 5 points. 
 
-
-Sources
-https://worldpopulationreview.com/country-rankings/alcohol-consumption-by-country
-
-https://worldpopulationreview.com/country-rankings/median-income-by-country
+#### In reviewing all of our additional variables, the highest average income has the strongest correlation with happiness score. Life Expectancy also has a strong correlation with happiness scores as well. However, the correlation between happiness score and average income has fewer outliers and a more positive correlation. 
