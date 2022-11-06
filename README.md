@@ -1,7 +1,6 @@
 # **Exploring World Happiness**
 
 ### Hannah Allen, Chris Partee, Grace Olson
-### GT Bootcamp: Project #1
 ### May 2, 2022
 
 ## **World Happiness Report Background:**
